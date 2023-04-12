@@ -1,0 +1,115 @@
+# Example
+
+# Program Committee:
+  # - conference: Conference C
+  #   years:
+  #     - year: 2021
+  #       url: /conference-c-2021/
+  #     - year: 2022
+  #       url: /conference-c-2022/
+  # - conference: Conference D
+  #   years:
+  #     - year: 2022
+  #       url: /conference-d-2022/
+
+# if you are using comments, please make sure you duplicate the conference name without the comment
+
+# ------------------ #
+Program Committee:
+  - conference: PerFail Workshop
+    years:
+      - year: 2023
+        url: https://perfail-workshop.github.io/2023/
+  - conference: ACM MobiSys SMS Workshop
+    years:
+      - year: 2021
+        url: http://www.people.vcu.edu/~barahoueipash/SMS/committee.html
+
+# ------------------ #
+
+Reviewer:
+  - conference: IEEE Transactions on Networking (TON)
+    years:
+      - year: 2023
+  - conference: IEEE Communications Magazine (COMMAG)
+    years:
+      - year: 2022
+  - conference: IEEE Transactions on Wireless Communications (TWC)
+    years:
+      - year: 2020
+
+# ------------------ #
+
+External Reviewer:
+  - conference: IFIP Networking Conference (IFIP Networking)
+    years:
+      - year: 2021
+        url: https://networking.ifip.org/2021/
+      - year: 2020
+        url: https://networking.ifip.org/2020/
+  - conference: IFIP/IEEE International Symposium on Integrated Network Management (IM)
+    years:
+      - year: 2021
+  - conference: IEEE Global Communications Conference (IEEE GLOBECOM)
+    years:
+      - year: 2022
+        url: https://globecom2022.ieee-globecom.org/
+      - year: 2020
+        url: https://globecom2020.ieee-globecom.org/
+  - conference: International Conference on Network and Service Management (CNSM)
+    years:
+      - year: 2020
+        url: http://www.cnsm-conf.org/2020/
+  - conference: International Conference on COMmunication Systems & NETworkS (COMSNET)
+    years:
+      - year: 2019
+        url: https://www.comsnets.org/archive/2019/
+  - conference: Network Traffic Measurement and Analysis Conference (TMA)
+    years:
+      - year: 2022
+        url: https://tma.ifip.org/2022/
+      - year: 2018
+        url: https://tma.ifip.org/2018/
+# ------------------ #
+
+Other:
+  - conference: Heidelberg Laureate Forum
+    years:
+      - year: 2023
+        url: https://www.heidelberg-laureate-forum.org/
+        comment: Master of Ceremony
+  - conference: ACM SIGCOMM
+    years:
+      - year: 2022
+        url: https://conferences.sigcomm.org/sigcomm/2022/
+        comment: Panel Discussion Moderator
+  - conference: PerFail Workshop
+    years:
+      - year: 2022
+        url: https://perfail-workshop.github.io/2022/
+        comment: Panel Discussion Moderator
+  - conference: ACM Mobile Systems, Applications, and Services (MobiSys)
+    years:
+      - year: 2021
+        url: https://mobisys.acm.org/2021/
+        comment: Student Mentor
+  - conference: ACM SIGCOMM
+    years:
+      - year: 2021
+        url: https://conferences.sigcomm.org/sigcomm/2021/
+        comment: Student Volunteer
+  - conference: IEEE WOWMOM
+    years:
+      - year: 2019
+        url: https://www.ieee-wowmom.org/2019/
+        comment: Student Volunteer
+  - conference: IIIT-Delhi Research Showcase
+    years:
+      - year: 2017
+        url: http://rs.iiitd.ac.in/RS17/
+        comment: Event organizer
+  - conference: IIIT-Delhi Research Showcase
+    years:
+      - year: 2016
+        url: http://rs.iiitd.ac.in/RS16/
+        comment: Event organizer
