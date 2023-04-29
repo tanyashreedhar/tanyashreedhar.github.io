@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, University of Edinburgh, UK
 
 profile:
   align: right
-  image: tanya-web-stand-blue-2.jpg
+  image: tanya-profile-London.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 1.25</p>
