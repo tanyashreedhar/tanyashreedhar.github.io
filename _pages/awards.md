@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/
 title: Awards
-nav: true
+nav: false
 nav_order: 6
 category_order: ["Fellowships", "Academic", "Extra Curricular", "Travel Grants"]
 ---

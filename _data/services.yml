@@ -15,7 +15,46 @@
 # if you are using comments, please make sure you duplicate the conference name without the comment
 
 # ------------------ #
+Organizing Committee:
+  - conference: Intl. Conf. on Communication Systems and Networks (COMSNETS)
+    years:
+      - year: 2025
+        url: https://www.comsnets.org/
+        comment: Graduate Forum & Publicity Chair
+  - conference: PerFail Workshop
+    years:
+      - year: 2024
+        url: https://perfail-workshop.github.io/2024/
+  - conference: ACM IoT Conference
+    years:
+      - year: 2024
+        url: https://iot-conference.org/iot2024/
+        comment: Workshop Chair
+
+# ------------------ #
+
+# create award committee head pointing to ANRP 2024
+Award Committee:
+  - conference: Applied Networking Research Prize (ANRP)
+    years:
+      - year: 2024
+        url: https://www.irtf.org/anrp/
+
+# ------------------ #
 Program Committee:
+# ANRW 2024
+  - conference: ACM/IRTF Applied Networking Research Workshop (ANRW)
+    years:
+      - year: 2024
+        url: https://irtf.org/anrw/2024/
+  - conference: Network Traffic Measurement and Analysis Conference (TMA)
+    years:
+      - year: 2024
+        url: https://tma.ifip.org/2024/
+  - conference: Passive and Active Measurement Conference (PAM)
+    years:
+      - year: 2024
+        url: https://pam2024.cs.northwestern.edu/
   - conference: PerFail Workshop
     years:
       - year: 2023
@@ -28,11 +67,16 @@ Program Committee:
 # ------------------ #
 
 Reviewer:
+  - conference: IEEE Transactions on Mobile Computing (TMC)
+    years:
+      - year: 2024
   - conference: IEEE Transactions on Networking (TON)
     years:
+      - year: 2024
       - year: 2023
   - conference: IEEE Communications Magazine (COMMAG)
     years:
+      - year: 2024  
       - year: 2022
   - conference: IEEE Transactions on Wireless Communications (TWC)
     years:
